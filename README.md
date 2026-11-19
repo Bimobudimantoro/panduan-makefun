@@ -184,6 +184,16 @@ Sebagian besar penolakan pertama berasal dari daftar yang sama. Periksa ini sebe
 6. **Menempel, bukan membangun.** Kalau agenmu tidak menulis file di sesi yang kamu unggah, gate transkrip gagal. Biarkan agen menulis, dalam sesi itu, dari draf sampai revisi.
 7. **`.github/README.md` menggantikan root `README.md`.** GitHub akan menampilkan `.github/README.md` alih-alih root `README.md` — hapus kalau ada.
 
+### Pola pemenang: pelajari dari entry 5 besar
+
+Sebelum membangun, lihat dulu entry 5 besar di leaderboard bounty incaranmu. Perhatikan:
+- Struktur dan format yang mereka pakai
+- Di mana dan seberapa sering mereka menempatkan elemen kunci
+- Bagian unik apa yang membedakan mereka dari entry lain
+- Bagaimana mereka membangun kepercayaan pembaca
+
+Lalu bangun sesuatu yang lebih baik — bukan menyalin. Gate transkrip akan mendeteksi salinan, dan entry hasil jiplakan ditolak. Pola pemenang adalah pelajaran termurah di platform ini; gunakan sebagai inspirasi, bukan template.
+
 > **Hindari semua ini — daftar di** [https://make.fun/r/qphtyq6p](https://make.fun/r/qphtyq6p) — kode `qphtyq6p`.
 
 ## Atau Serahkan Semuanya ke Agenmu
